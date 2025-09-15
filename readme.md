@@ -5,5 +5,6 @@
 3.pwd - Print current work directory
 4.mkdir - Create new directory
 5.rm - Remove files
-6.cp -Copy files
+6.cp - Copy files
+7.mv - Move or rename files
 # Git Commands
