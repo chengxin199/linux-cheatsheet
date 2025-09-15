@@ -14,3 +14,4 @@
 11.git add - Stage changes for the next commit
 12.git commit - Commit staged change
 13.git branch - List,create,or delete branches
+14.git checkout - Switch to another branch
