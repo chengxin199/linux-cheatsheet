@@ -12,3 +12,4 @@
 10.chmod - Change file permissions
 # Git Commands
 11.git add - Stage changes for the next commit
+12.git commit - Commit staged change
