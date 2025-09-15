@@ -11,3 +11,4 @@
 9.grep - Search for a pattern in files
 10.chmod - Change file permissions
 # Git Commands
+11.git add - Stage changes for the next commit
