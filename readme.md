@@ -7,4 +7,5 @@
 5.rm - Remove files
 6.cp - Copy files
 7.mv - Move or rename files
+8.cat - Display files directory
 # Git Commands
