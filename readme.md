@@ -8,4 +8,5 @@
 6.cp - Copy files
 7.mv - Move or rename files
 8.cat - Display files directory
+9.grep - Search for a pattern in files
 # Git Commands
